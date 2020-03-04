@@ -1,4 +1,4 @@
-# MATT WHITESIDE 
+# MATT WHITESIDE
 ---
 Houston, Texas
 
@@ -52,7 +52,9 @@ Majored in: English – Language and Literature | Computer Science
 
 **Unreal Engine 4:** 4.12.3-4.22.3, Desktop/Mobile (2D and 3D projects), Blueprints, Python Scripting
 
-**C#:** 7.0-7.1, .NET Core(1 - 3), .NET Framework, Unity, Xamarin
+**C#:** 7.0-8.0, .NET Core(1 - 3), .NET Framework, Unity, Xamarin
+
+**DartLang:** Flutter, Material, Packages
 
 **JavaScript:** Vanilla(ES6), Node.JS, Express.JS, Handlebars.JS, JQuery
 
