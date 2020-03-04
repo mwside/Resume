@@ -11,21 +11,34 @@ Full stack developer searching for an innovative company to continue learning an
 ### HEWLETT PACKARD ENTERPRISE, Houston, Texas 						         Feb 2019 – Current
 #### iLO REST Developer(Contract)
 •	Consulted on new API design for RESTful command line utility.
+
 •	Refactored for performance optimization.
+
 •	Development of new feature requests on CLI tool and Redfish library.
+
 •	Spearheaded creation of features to be used in our open source project; Redfish. 
+
 •	Participated in code reviews and testing (All fazes of Software Development Lifecycle)
+
 •	Assisted in updating our product suite from optparse to argparse, then from Python 2 to Python 3
+
 •	Replicated environments to resolve OS specific issues as encountered by testing team.
+
 
 ### IRONEDGE GROUP, Houston, Texas     							                       Sep 2016 – Jan 2019 
 #### Automation Specialist/Business Intelligence Analyst/Service Coordinator
 •	Defined scope of projects, interfaced with clients & developed, presented & deployed customized ticketing pages.
+
 •	Developed automation scripts and applications in Python, C# and C++. 
+
 •	Implemented shift in technology from Web Forms to MVC, .NET Framework to Core, created and implemented API’s. 
+
 •	Developed Xamarin mobile solution for gathering potential clients for Management and Marketing team. 
+
 •	Introduced responsive formatting for web apps.
+
 •	Designed decision structures to manage and automate ticket workflows.
+
  
 ### OWNER/OPERATOR SELF-EMPLOYED, Katy, TX 
 #### Farrier (Horse Shoeing)/Horse Trainer
